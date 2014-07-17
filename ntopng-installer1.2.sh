@@ -2,7 +2,7 @@
 #
 # Ntopng automatic Install And Update process for Debian 7 wheezy 32 y 64 bits
 # Version: 1.2
-# License: GPLv2
+# License: GPLv3
 # Author : Jose
 # Credits: josecp300@gmail.com
 # Date   : Jul 2014
