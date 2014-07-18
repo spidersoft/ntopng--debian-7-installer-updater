@@ -1,0 +1,15 @@
+Errors and  FAQ:
+
+If you are using a old version from ntopng, you cant compile geoip and you have got this error:
+
+Flow.cpp:296:40: error: 'struct ndpi_flow_struct' has no member named 'detected_os'
+make: *** [Flow.o] Error 1
+
+Do:
+
+make clean
+
+And delete complete dir, again lauch script.
+
+Thanks to Filippo for advice.
+
